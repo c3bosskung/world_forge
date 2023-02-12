@@ -1,0 +1,220 @@
+{
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-02-12 23:19:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-02-12 23:19:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-02-12 23:19:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-02-12 23:18:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-02-12 23:19:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-02-12 23:19:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-02-12 23:19:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-02-12 23:19:57 +0700"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2023-02-12 23:12:15 +0700"
+    },
+    "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:zelkova_forest": "2023-02-12 23:20:11 +0700",
+      "byg:cherry_blossom_forest": "2023-02-12 23:17:53 +0700",
+      "byg:baobab_savanna": "2023-02-12 23:17:38 +0700",
+      "byg:ebony_woods": "2023-02-12 23:17:33 +0700"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2023-02-12 23:23:38 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-02-12 23:19:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2023-02-12 23:17:28 +0700",
+      "minecraft:beach": "2023-02-12 23:24:21 +0700",
+      "minecraft:river": "2023-02-12 23:24:06 +0700",
+      "minecraft:forest": "2023-02-12 23:12:17 +0700",
+      "minecraft:savanna": "2023-02-12 23:17:39 +0700"
+    },
+    "done": false
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-02-12 23:23:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-02-12 23:19:57 +0700"
+    },
+    "done": true
+  },
+  "betteranimalsplus:bad_fox": {
+    "criteria": {
+      "no_bam": "2023-02-12 23:12:20 +0700"
+    },
+    "done": false
+  },
+  "betteranimalsplus:ride_reindeer": {
+    "criteria": {
+      "ride_reindeer": "2023-02-12 23:24:27 +0700"
+    },
+    "done": true
+  },
+  "global:timber/timber": {
+    "criteria": {
+      "trigger": "2023-02-12 23:12:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-02-12 23:19:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-02-12 23:23:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-02-12 23:18:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-02-12 23:19:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-02-12 23:18:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-02-12 23:19:57 +0700"
+    },
+    "done": true
+  },
+  "global:moggla": {
+    "criteria": {
+      "trigger": "2023-02-12 23:12:15 +0700"
+    },
+    "done": true
+  },
+  "byg:biomepedia_gift": {
+    "criteria": {
+      "tick": "2023-02-12 23:12:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-02-12 23:18:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-02-12 23:18:05 +0700"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-02-12 23:12:15 +0700"
+    },
+    "done": true
+  },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2023-02-12 23:12:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-02-12 23:19:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-02-12 23:19:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-02-12 23:18:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-02-12 23:18:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-02-12 23:19:57 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
